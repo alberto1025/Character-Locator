@@ -1,10 +1,4 @@
-/*
-Alberto Escalante
-Math 230 (M/W)
-Instructor: Mimi Rasky
-Date: 03/07/2022
-Lab #4: Strings, Pointers and Functions
-*/
+
 
 #include <stdio.h>
 char *serchit(char *str, char ref_char);
